@@ -1,10 +1,3 @@
-# Nivel 01
-## Nivel 02
+# Projeto Landingpage Mobile First
 
-```javascript
-let count = 0;
-```
-
-* Item 1
-* Item 2
-* Item 3
+## [Licença MIT](/LICENSE) 
