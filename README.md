@@ -7,6 +7,7 @@ O projeto Landingpage Mobile Fist tem o como objetivo utilizar os conceitos de D
 
 ## Imagens
 * Colocar imagens de telas
+![Blog](./assets/blog.png?raw=true "Blog")
 * Colocar diagramas de banco de dados
 * Colocar Diagramas UML 
 
